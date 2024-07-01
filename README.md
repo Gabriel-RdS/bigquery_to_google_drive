@@ -59,7 +59,7 @@ Substitua `sandbox` pelo ID do seu projeto no Google Cloud e `1A2B3C4D5E6F` pelo
 Adicione a query SQL ao arquivo `sql/query.sql`. Por exemplo:
 
 ```sql
-SELECT * FROM sandbox.user_gabriel_ramos.poc_check_provedores_regionais LIMIT 10;
+SELECT * FROM sandbox.user_gabriel_ramos.poc_teste LIMIT 10;
 ```
 
 ### 6. Adicionar `.gitignore`
